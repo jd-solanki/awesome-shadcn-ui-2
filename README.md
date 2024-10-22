@@ -132,7 +132,6 @@
 - [Shadcn Cookie Consent](https://github.com/r2hu1/shadcn-cookie-consent) - Beautifully designed, customizable cookie consent for web built on top of shadcn-ui and tailwind-css!
 - [Dnd Dashboard](https://github.com/olliethedev/dnd-dashboard) - A beautiful, performant dashboard with drop-to-swap layouts built using Next.js, shadcn/ui, and swapy.
 - [React Confirm Dialog](https://github.com/Aslam97/react-confirm-dialog) - React Confirm Dialog
-
 - [Shadcn Timeline](https://github.com/timDeHof/shadcn-timeline) - Customizable and re-usable timeline component for you to use in your projects. Built on top of shadcn.
 - [Image Upload Shadcn](https://github.com/kushagrasarathe/image-upload-shadcn) - Image upload component
 - [Phone Input Shadcn UI](https://www.armand-salle.fr/post/phone-input-shadcn-ui) - Custom phone number component built with shadcn/ui.
@@ -169,7 +168,7 @@ An extension of shadcn/ui button component that uses a state machine to drive a 
 - [Shadcn Form Builder](https://github.com/hasanharman/form-builder) - Create forms with Shadcn,react-hooks-form and zod within minutes
 - [Invoify](https://github.com/aliabb01/invoify) - An invoice generator app built using Next.js,Typescript,and shadcn/ui
 - [Form Builder](https://github.com/AlandSleman/FormBuilder) - UI based codegen tool to easily create Beautiful and Type safe @shadcn/ui forms.
-- [Tinte](https://github.com/Railly/tinte) - An opinionated VS Code Theme Generator ð¨
+- [Tinte](https://github.com/Railly/tinte) - An opinionated theme generator 🎨 (VS Code, shadcn/ui)
 - [UI Builder](https://github.com/olliethedev/ui-builder) - A React component editor that provides a no-code,visual way to create UIs,fully compatible with shadcn/ui and custom components.
 - [Cut It](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router,Server Actions,Drizzle ORM,Turso and styled with shadcn/ui.
 - [Quack DB](https://github.com/mattf96s/QuackDB) - Open-source in-browser DuckDB SQL editor
@@ -181,6 +180,7 @@ An extension of shadcn/ui button component that uses a state machine to drive a 
 - [Proxmox Helper Scripts](https://github.com/BramSuurdje/proxmox-helper-scripts) - A catalog of scripts for your Proxmox VE homelab,built with the Next.js App Router and styled with shadcn/ui.
 - [Shadcn Zod Form](https://github.com/ilyichv/shadcn-zod-form) - CLI tool to generate shadcn/ui forms from zod schemas.
 - [Wallhaven Desktop](https://github.com/ErKeLost/wallhaven-desktop) - Wallhaven Wallpaper software desktop. Create a wallhaven api based client,a true wallpaper software. use Farm,Tauri,React19,shadcn/ui.
+- [Awesome Docs Gallery](https://github.com/Hashnode/awesome-docs-gallery) - A crowdsourced, open-source gallery for high-quality dev docs.
 - [Sharable Form Builder](https://github.com/ayoubben18/sharable-form-builder) - A sharable form builder for creating forms and sharing your form link,based on shadcn/ui and Next.js.
 - [Down Dev Detector](https://github.com/birobirobiro/downdevdetector) - This app lists all the services currently down and uses service Atlassian Status Page and others (soon).
 - [Xuneix](https://github.com/theteleporter/xuneix) - A link rotation tool for enhanced admin panel security. It includes dynamic URLs,expiring tokens,customizable rotation. Easily setup with shadcn/ui. Integrates with Vercel KV.
