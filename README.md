@@ -27,6 +27,7 @@
 - [Firestarta](https://github.com/uixmat/firestarta) - Next.js SaaS boilerplate with NextAuth, Prisma, Supabase, Shadcn/ui & Lemon Squeezy Subscriptions.
 - [SaasHQ](https://github.com/saashqdev/saashq) - Saas CRM/ERP Starter Kit for Nextjs Prisma and Postgres. An excellent resource for buildnig things in Nextjs.
 - [Convex SaaS](https://github.com/get-convex/convex-saas) - A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.
+- [Next Money Stripe Starter](https://github.com/virgoone/next-money) - Empower your next project with the stack of Next.js 14, Prisma, Supabase, Clerk Auth, Resend, React Email, Shadcn/ui, and Stripe.
 
 ## UI Libs
 - [Aceternity UI](https://ui.aceternity.com/) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
