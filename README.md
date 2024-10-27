@@ -53,6 +53,7 @@
 - [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router,server components and everything new in Next.js.
 - [kirimase](https://github.com/nicoalbanese/kirimase) - A template and boilerplate for quickly starting your next project with shadcn/ui,Tailwind CSS,and Next.js.
 - [next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Next.js 14 and shadcn/ui.
+- [NextMaster](A highly performant e-commerce template using Next.js.)
 - [shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Landing page template using shadcn/ui,React,Typescript and Tailwind CSS.
 - [chadnext](https://github.com/moinulmoin/chadnext) - Quick Starter Template includes Next.js 14 App router,shadcn/ui,LuciaAuth,Prisma,Server Actions,Stripe,Internationalization and more.
 - [Landing page boilerplate](https://github.com/weijunext/landing-page-boilerplate) - A versatile landing page boilerplate, ideal for various projects and marketing campaigns.
