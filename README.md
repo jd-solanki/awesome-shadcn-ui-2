@@ -32,6 +32,7 @@
 ## UI Libs
 - [Aceternity UI](https://ui.aceternity.com/) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
 - [Magic UI](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps.
+- [Magic UI Pro](https://pro.magicui.design/?ref=bytefer) - 50+ beautiful sections and templates built with React, Typescript, Tailwind CSS, and Framer Motion.
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) -  The trendiest & innovative Open Source Admin Template for Chakra UI & React.
 - [Assistant UI](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀.
 - [Cult UI](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste.
@@ -50,6 +51,7 @@
 - [Myna UI](https://mynaui.com/) - TailwindCSS and shadcn/ui UI Kit for Figma and React.
 
 ## Templates
+- [Magic UI Mobile Template](https://pro.magicui.design/?ref=bytefer) - Features interactive app previews, smooth animations, and mobile-first design. Includes customizable sections for features, benefits, pricing, and app store integration.
 - [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router,server components and everything new in Next.js.
 - [kirimase](https://github.com/nicoalbanese/kirimase) - A template and boilerplate for quickly starting your next project with shadcn/ui,Tailwind CSS,and Next.js.
 - [next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Next.js 14 and shadcn/ui.
@@ -146,6 +148,7 @@ An extension of shadcn/ui button component that uses a state machine to drive a 
 - [Shadcn Carousel Testimonials](https://github.com/johanguse/shadcn-carousel-testimonials) - shadcn UI Carousel Testimonials
 - [Shadcn Date Picker](https://github.com/flixlix/shadcn-date-picker) - Advanced date picker with range selection, year and month selection, and more.
 - [Nextjs Link Pagination](https://github.com/bryaneaton13/shadcn-next-link-pagination) - Use shadcn pagination components to navigate and update URL params
+- [Shadcn Spinner](https://github.com/allipiopereira/shadcn-spinner)
 - [Recursive Dnd Kanban Board](https://github.com/mehrdadrafiee/recursive-dnd-kanban-board) - Recursively-generated drag and drop Accessible kanban board implementing using Next.js, @dnd-kit, Tailwind CSS and shadcn/ui
 - [Clerk Elements](https://clerk.com/docs/customization/elements/examples/shadcn-ui) - Composable components that can be used to build custom UIs on top of Clerk's APIs.
 - [Simplekit](https://github.com/vaunblu/SimpleKit) - Responsive connect wallet and account component built on top of Wagmi and shadcn/ui.
