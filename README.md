@@ -89,6 +89,7 @@
 - [Vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [Number Flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
 - [Auto Form](https://github.com/vantezzen/autoform) - Automatically render forms for your existing data schema.
+- [Form Builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
 - [Shadcn Table V2](https://github.com/sadmann7/shadcn-table) - shadcn/ui table component with server-side sorting, filtering, and pagination.
 - [Neobrutalism Components](https://github.com/ekmas/neobrutalism-components) - Collection of neobrutalism-styled Tailwind components.
 - [Maily.to](https://github.com/arikchakma/maily.to) - Powerful editor for creating beautiful, pre-designed, mobile-ready emails.
