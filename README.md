@@ -51,6 +51,7 @@
 - [Myna UI](https://mynaui.com/) - TailwindCSS and shadcn/ui UI Kit for Figma and React.
 
 ## Templates
+- [autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. 
 - [Magic UI Mobile Template](https://pro.magicui.design/?ref=bytefer) - Features interactive app previews, smooth animations, and mobile-first design. Includes customizable sections for features, benefits, pricing, and app store integration.
 - [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router,server components and everything new in Next.js.
 - [kirimase](https://github.com/nicoalbanese/kirimase) - A template and boilerplate for quickly starting your next project with shadcn/ui,Tailwind CSS,and Next.js.
@@ -89,6 +90,7 @@
 - [Vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [Number Flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
 - [Auto Form](https://github.com/vantezzen/autoform) - Automatically render forms for your existing data schema.
+- [next-stepper](https://github.com/ebulku/next-stepper) - A dynamic multi-step form. Built with: Next.js | shadcn/ui | zustand | framer-motion.
 - [Form Builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
 - [Shadcn Table V2](https://github.com/sadmann7/shadcn-table) - shadcn/ui table component with server-side sorting, filtering, and pagination.
 - [Neobrutalism Components](https://github.com/ekmas/neobrutalism-components) - Collection of neobrutalism-styled Tailwind components.
@@ -111,6 +113,7 @@
 - [Credenza](https://github.com/redpangilinan/credenza) - Ready-made responsive modal component for shadcn/ui.
 - [Shadcn Phone Input](https://github.com/omeralpi/shadcn-phone-input) - Customizable phone input component with proper validation for any country. Built on top of shadcn.
 - [Dnd-Kit Shadcn UI](https://github.com/Georgegriff/react-dnd-kit-tailwind-shadcn-ui) - Drag and drop Accessible kanban board implementing using React, @dnd-kit, tailwind and shadcn/ui.
+- [dialog-stack](https://github.com/haydenbleasel/dialog-stack) - Composable stacked dialogs for shadcn/ui.
 - [Enhanced Button](https://github.com/jakobhoeg/enhanced-button) - An enhanced version of the default shadcn-button component.
 - [Sortable](https://github.com/sadmann7/sortable) - A sortable component built with shadcn/ui, radix ui, and dnd-kit.
 - [Zoom Charts](https://github.com/shelwinsunga/zoom-chart-demo) - Zoomable Charts on top of shadcn/ui Charts.
