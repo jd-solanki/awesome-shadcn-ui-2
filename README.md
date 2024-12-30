@@ -98,6 +98,7 @@
 - [Background Snippet](https://github.com/ibelick/background-snippets) - Ready to use collection of modern background snippets.
 - [Shadcn UI Sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) - A stunning, functional and responsive retractable sidebar built on top of shadcn/ui.
 - [Shadcn UI Expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
+- [Shadcn UI Blocks](https://github.com/akash3444/shadcn-ui-blocks) - A collection of customized Shadcn UI components and blocks that you can copy and paste into your applications.
 - [Stepperize](https://github.com/damianricobelli/shadcn-stepper) - A library for creating step-by-step workflows in your apps.
 - [Onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 - [File Uploader](https://github.com/sadmann7/file-uploader) - File uploader built with shadcn/ui and react-dropzone.
