@@ -107,7 +107,7 @@
 | Shadcn UI Sidebar | A stunning, functional and responsive retractable sidebar built on top of shadcn/ui. | https://github.com/salimi-my/shadcn-ui-sidebar |
 | Shadcn UI Expansions | More components built on top of shadcn-ui. | https://github.com/hsuanyi-chou/shadcn-ui-expansions |
 | Shadcn UI Blocks | A collection of customized Shadcn UI components and blocks that you can copy and paste into your applications. | https://github.com/akash3444/shadcn-ui-blocks |
-| Stepperize | A library for creating step-by-step workflows in your apps. | https://github.com/damianricobelli/shadcn-stepper |
+| Stepperize | A library for creating step-by-step workflows in your apps. | https://github.com/damianricobelli/stepperize |
 | Onborda | An onboarding wizard flow / product tour for Next.js animated by framer motion | https://github.com/uixmat/onborda |
 | File Uploader | File uploader built with shadcn/ui and react-dropzone. | https://github.com/sadmann7/file-uploader |
 | Fancy Area | The Textarea is inspired by GitHub's PR comment section. The impressive part is the @mention support including hover cards in the preview. | https://craft.mxkaske.dev/post/fancy-area |
