@@ -53,7 +53,6 @@
 | Bundui | A collection of components that you can copy and paste into your applications. Built with Tailwind CSS and Framer Motion. | https://github.com/bundui/components |
 | Lukacho UI | Next Generation UI Components. | https://ui.lukacho.com/components |
 | Myna UI | TailwindCSS and shadcn/ui UI Kit for Figma and React. | https://mynaui.com/ |
-| Shadcn Store | Ready-to-Use Shadcn Blocks for Faster, Smarter Builds | https://shadcnstore.com |
 
 ## Templates
 | Name | Description | Link |
@@ -166,6 +165,7 @@
 | Recursive Dnd Kanban Board | Recursively-generated drag and drop Accessible kanban board implementing using Next.js, @dnd-kit, Tailwind CSS and shadcn/ui | https://github.com/mehrdadrafiee/recursive-dnd-kanban-board |
 | Clerk Elements | Composable components that can be used to build custom UIs on top of Clerk's APIs. | https://clerk.com/docs/customization/elements/examples/shadcn-ui |
 | Simplekit | Responsive connect wallet and account component built on top of Wagmi and shadcn/ui. | https://github.com/vaunblu/SimpleKit |
+| Shadcn Store | Ready-to-Use Shadcn Blocks for Faster, Smarter Builds | https://shadcnstore.com |
 
 ## Colors And Customizations
 | Name | Description | Link |
