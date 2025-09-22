@@ -53,6 +53,7 @@
 | Bundui | A collection of components that you can copy and paste into your applications. Built with Tailwind CSS and Framer Motion. | https://github.com/bundui/components |
 | Lukacho UI | Next Generation UI Components. | https://ui.lukacho.com/components |
 | Myna UI | TailwindCSS and shadcn/ui UI Kit for Figma and React. | https://mynaui.com/ |
+| Shadcn Store | Ready-to-Use Shadcn Blocks for Faster, Smarter Builds | https://shadcnstore.com |
 
 ## Templates
 | Name | Description | Link |
@@ -211,6 +212,7 @@
 | Imgsrc | Generate beautiful Open Graph images with zero effort. | https://imgsrc.io/ |
 | Shadcn Pricing Page Generator | The easiest way to get a React pricing page with shadcn/ui,Radix UI and/or Tailwind CSS. | https://shipixen.com/shadcn-pricing-page |
 | V0 | Vercel's generative UI system,built on shadcn/ui and TailwindCSS,allows effortless UI generation from text prompts and/or images. It produces React and HTML code,integration is also possible via v0 CLI command. | https://v0.dev/ |
+| Cheatsheet | A comprehensive, interactive reference for shadcn/ui components with live previews, code examples, and instant copy functionality. | https://shadcnstore.com/cheatsheet |
 
 ## Extensions
 | Name | Description | Link |
